@@ -10,6 +10,15 @@
 
 .Clock-days, .Clock-hours, .Clock-minutes, .Clock-seconds{
     display: inline;
-    margin: 10px;
+    margin: 15px;
 }
 
+.Form-Align {
+    display: flex;
+    justify-content: center;
+}
+
+.Deadline-Input{
+    font-size: 25px;
+    margin: 15px;
+}
